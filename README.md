@@ -1,2 +1,2 @@
 # jupyterNotebookTest
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/undefinedSolutions/jupyterNotebookTest/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/undefinedSolutions/jupyterNotebookTest/HEAD?filepath=test.ipynb)
