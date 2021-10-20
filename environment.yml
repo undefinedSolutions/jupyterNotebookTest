@@ -1,9 +1,0 @@
-name: rise-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - rise
-  - numpy
-  - pip:
-    - pycodestyle_magic
