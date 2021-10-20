@@ -4,4 +4,4 @@ channels:
 dependencies:
   - python
   - rise
-  - pycodestyle
+  - pycodestyle_magic
